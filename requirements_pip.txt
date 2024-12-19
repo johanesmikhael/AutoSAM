@@ -58,14 +58,14 @@ brotlipy==0.7.0
 # bzip2==1.0.8
 # c-ares==1.19.1
 # c-blosc2==2.8.0
-ca-certificates==2023.12.12
+# ca-certificates==2023.12.12
 cctools==949.0.1
-cctools_osx-arm64==949.0.1
+# cctools_osx-arm64==949.0.1
 certifi==2023.11.17
 cffi==1.15.1
-cfitsio==3.470
+# cfitsio==3.470
 chardet==4.0.0
-charls==2.2.0
+# charls==2.2.0
 charset-normalizer==2.0.4
 click==8.0.4
 cloudpickle==2.2.1
