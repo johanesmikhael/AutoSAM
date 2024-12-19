@@ -149,7 +149,7 @@ holoviews=1.17.1
 
 hvplot=0.8.4
 hyperlink=21.0.0
-icu=68.1
+icu # =68.1
 idna=3.4
 imagecodecs=2023.1.23
 imageio=2.31.1
@@ -446,7 +446,7 @@ sphinxcontrib-serializinghtml=1.1.5
 spyder=5.4.3
 spyder-kernels=2.4.4
 sqlalchemy=1.4.39
-sqlite=3.41.2
+sqlite # =3.41.2
 stack_data=0.2.0
 statsmodels=0.14.0
 sympy=1.13.1
