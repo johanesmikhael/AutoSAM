@@ -146,11 +146,11 @@ hdf5=1.12.1
 heapdict=1.0.1
 holoviews=1.17.1
 # huggingface-hub
-huggingface_hub
+# huggingface_hub
 
 hvplot=0.8.4
 hyperlink=21.0.0
-icu=58.2 #change
+icu
 idna=3.4
 imagecodecs=2023.1.23
 imageio=2.31.1
